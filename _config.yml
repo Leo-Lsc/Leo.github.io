@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Shenzhen, China"
-title                    : "Sicheng Lai"
+locale                   : "en-US"
+title                    : "Sicheng Lai/Personal Page "
 title_separator          : "-"
 name                     : "Sicheng Lai"
-description              : "personal description"
+description              : "Undergrad at The Chinese University of Hong Kong, Shenzhen"
 url                      : https://leo-lsc.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "leo-lsc/Leo.github.io"
