@@ -12,7 +12,7 @@ title                    : "Sicheng Lai - Personal Page"
 title_separator          : "-"
 name                     : "Sicheng Lai"
 description              : "Undergrad at The Chinese University of Hong Kong, Shenzhen"
-url                      : https://leo-lsc.github.io/Leo.github.io/  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://leo-lsc.github.io/Leo.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "leo-lsc/Leo.github.io"
 
@@ -25,7 +25,7 @@ author:
   name             : "Sicheng Lai"
   bio              : "Undergrad at The Chinese University of Hong Kong, Shenzhen"
   location         : "Shenzhen, China"
-  url              : https://leo-lsc.github.io
+  url              : https://leo-lsc.github.io/Leo.github.io
   email            : "122090246@link.cuhk.edu.cn" 
 
   # Academic websites
