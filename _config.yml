@@ -21,7 +21,7 @@ repository               : "leo-lsc/Leo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "github_io.png"
+  # avatar           : "github_io.png"
   name             : "Sicheng Lai"
   pronouns         : # example: "she/her"  
   bio              : "Undergrad at The Chinese University of Hong Kong, Shenzhen"
