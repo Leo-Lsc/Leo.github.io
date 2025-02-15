@@ -21,6 +21,8 @@ Links: [Research Overview](#research-overview) / [Updates](#updates) / [Papers](
 # Updates
 
 # Papers
+[Google Scholar](https://scholar.google.com/citations?user=41jUaQ0AAAAJ&hl=zh-CN)
+
 ## Preprints
 - [Both Text and Images Leaked! A Systematic Analysis of Multimodal LLM Data Contamination](https://arxiv.org/abs/2411.03823)
 
